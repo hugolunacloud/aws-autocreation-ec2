@@ -1,5 +1,7 @@
 Creating a Lambda function to automate the process of creating EC2 instances on AWS can save time and increase efficiency in business operations. This can be especially useful for businesses that require frequent scaling of their infrastructure, such as e-commerce websites or SaaS platforms. By automating the creation of EC2 instances, businesses can quickly respond to changes in demand and optimize their resource allocation. Additionally, automating this process can reduce the potential for human error and improve overall system reliability.
 
+![A7F6792B-50C1-4659-A3B6-DDFF26F5FC2D_1_105_c](https://user-images.githubusercontent.com/123271041/235320150-d6cee667-59a8-4347-b79d-fcf5e426e79c.jpeg)
+
 
 Create a an SSH key to access the Ec2:
 Creating an SSH key is important to securely access the EC2 instance in AWS. It provides a secure and efficient way to authenticate and connect.C2 instance
